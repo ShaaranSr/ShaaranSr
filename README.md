@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaaranSr
 - 👀 I’m interested in coding as it is exciting!
-- 🌱 I’m currently learning Python and Java.
+- 🌱 I’m currently build Python AI agent and training ML Models.
 - 💞️ I’m looking to collaborate on simple and easy begginer projects
 - 📫 email: srshaaran@gmail.com
 
